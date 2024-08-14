@@ -275,6 +275,7 @@ form button {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    font-size: 0.80em;
     gap: 2em;
     padding: 1rem 0;
 }
@@ -361,7 +362,6 @@ form button {
     .img-box .img-1, .img-box .img-2 {
         max-width: 300px;
    }
-
    .footer .list {
         flex-direction: column;
         margin-top: 1rem;
