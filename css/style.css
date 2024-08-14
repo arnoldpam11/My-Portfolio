@@ -363,7 +363,7 @@ form button {
    }
 
    .footer .list {
-    flex-direction: column;
-    margin-top: 1rem;
-}
+        flex-direction: column;
+        margin-top: 1rem;
+    }
 }
